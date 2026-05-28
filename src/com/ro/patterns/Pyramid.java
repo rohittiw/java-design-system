@@ -1,8 +1,8 @@
-package com.tiwari.ro.pattern;
+package com.ro.patterns;
 
 import java.util.Scanner;
 
-public class PyramidPattern_1 {
+public class Pyramid {
 
     public static void main(String[] args) {
 
